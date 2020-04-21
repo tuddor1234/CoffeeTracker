@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CoffeeTracker</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="coffee_small">Small</string>
+    <string name="coffee_mid">Medium</string>
+    <string name="coffee_lg">Large</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
