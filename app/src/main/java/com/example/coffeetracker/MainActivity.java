@@ -13,6 +13,10 @@ import com.example.coffeetracker.ui.StatisticsFragment;
 
 public class MainActivity extends AppCompatActivity {
 
+    private int frameIndex;
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
