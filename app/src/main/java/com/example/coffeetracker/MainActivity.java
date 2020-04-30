@@ -22,20 +22,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        CoffeePickerFragment cfp = new CoffeePickerFragment();
-//
-//        FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-//
-//        ft.add(R.id.frame,cfp).commit();
-//
-
-        StatisticsFragment statisticsFragment = new StatisticsFragment();
-
-        FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-
-        ft.add(R.id.frame,statisticsFragment).commit();
-
-
 
     }
 }
